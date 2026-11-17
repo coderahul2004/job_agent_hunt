@@ -1,0 +1,23 @@
+ALEX SHARMA
+Email: alex.sharma@email.com | Phone: +91-9876543210
+GitHub: github.com/alexsharma | LinkedIn: linkedin.com/in/alexsharma
+
+SUMMARY
+Final-year Computer Science student passionate about AI and automation.
+Built 3 full-stack projects using Python, Streamlit and LLM APIs.
+
+SKILLS
+Languages: Python, JavaScript, SQL
+Frameworks: CrewAI, LangChain, Streamlit, FastAPI, React
+Tools: Git, Docker, PostgreSQL, AWS (basic)
+AI/LLM: Prompt engineering, RAG basics, OpenAI/Groq APIs
+
+PROJECTS
+1. JobHunt Agent Squad — Multi-agent system (CrewAI) that scrapes jobs,
+   scores resume fit, and auto-tailors cover letters. Python, Streamlit.
+2. FinDash — Stock dashboard with sentiment analysis of news headlines.
+   Python, yfinance, Streamlit.
+3. Campus Events API — REST API for college event booking. FastAPI, PostgreSQL.
+
+EDUCATION
+B.Tech Computer Science, XYZ University (2022–2026) — CGPA 8.4
